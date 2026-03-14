@@ -42,7 +42,7 @@ func main() {
 [Program ini dibuat untuk menghitung nilai permutasi dan kombinasi dari dua pasang bilangan yang dimasukkan oleh pengguna. Sesuai dengan materi di modul, kita memecah logika program ini menjadi tiga subprogram atau fungsi pendukung. Fungsi pertama bertugas mencari nilai faktorial dari sebuah angka secara berulang. Selanjutnya, fungsi kedua dan ketiga masing-masing digunakan untuk menghitung nilai permutasi dan kombinasi. Alih-alih menulis ulang perhitungan yang panjang, kedua fungsi ini langsung memanfaatkan pemanggilan fungsi faktorial yang sudah kita buat di awal. Pada bagian utama program, kita hanya perlu menampung empat angka yang diketikkan pengguna , lalu mencetak hasil akhir permutasi dan kombinasi ke layar sesuai dengan format baris yang diminta.]
 
 ### 2. [Menghitung Komposisi Fungsi]
-#### soal1.go
+#### soal2.go
 
 ```go
 package main
@@ -77,7 +77,7 @@ func main() {
 [Program kedua ini mengimplementasikan konsep komposisi fungsi matematika ke dalam bentuk kode pemrograman. Berdasarkan petunjuk soal, kita menerjemahkan tiga fungsi matematika dasar menjadi tiga fungsi mandiri di dalam bahasa Go. Fungsi pertama digunakan untuk mengkuadratkan sebuah nilai, fungsi kedua untuk mengurangi sebuah nilai dengan angka dua, dan fungsi ketiga untuk menambahkan sebuah nilai dengan angka satu. Untuk menyelesaikan masalah komposisi fungsi, kita menerapkan teknik pemanggilan fungsi secara bersarang atau bertumpuk. Di dalam program utama, setelah sistem menerima masukan tiga buah angka dari pengguna, proses komputasi akan berjalan dari fungsi yang posisinya paling dalam. Hasil komputasi dari fungsi terdalam tersebut otomatis diteruskan ke fungsi yang membungkusnya di luar, begitu seterusnya hingga mendapatkan nilai akhir untuk ditampilkan ke layar menjadi tiga baris keluaran.]
 
 ### 3. [Menentukan Posisi Titik terhadap Lingkaran]
-#### soal1.go
+#### soal3.go
 
 ```go
 package main
