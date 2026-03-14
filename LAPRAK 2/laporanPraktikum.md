@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 1 - ... </h1>
+# <h1 align="center">Laporan Praktikum Modul 3 - FUNGSI </h1>
 <p align="center">[EDWARD ABIMAS SURYA HATTA] - [109082500171]</p>
 
 ## Unguided 
